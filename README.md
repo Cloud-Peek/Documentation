@@ -10,6 +10,13 @@ This repository contains:
 - Ready-to-use configuration templates
 - Best practices for security and compliance
 
+## Documenation
+
+### [AWS Onboarding](/aws/onboarding/)
+- [Service Link Role Creation](/aws/onboarding/Service_Link_Role.html)
+- [Service User Creation](/aws/onboarding/Service_User_Creation.html)
+- [Temporary Access with SSO](/aws/onboarding/TemporaryAccess.html)
+
 
 ## We Welcome Your Input
 
