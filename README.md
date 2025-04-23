@@ -12,10 +12,10 @@ This repository contains:
 
 ## Documenation
 
-### [AWS Onboarding](/aws/onboarding/)
-- [Service Link Role Creation](/aws/onboarding/Service_Link_Role.html)
-- [Service User Creation](/aws/onboarding/Service_User_Creation.html)
-- [Temporary Access with SSO](/aws/onboarding/TemporaryAccess.html)
+### [AWS Onboarding](/Documentation/aws/onboarding/)
+- [Service Link Role Creation](/Documentation/aws/onboarding/Service_Link_Role.html)
+- [Service User Creation](/Documentation/aws/onboarding/Service_User_Creation.html)
+- [Temporary Access with SSO](/Documentation/aws/onboarding/TemporaryAccess.html)
 
 
 ## We Welcome Your Input
