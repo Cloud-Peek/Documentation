@@ -1,4 +1,4 @@
-# Welcome to our CLoudPeek
+# Welcome to our CloudPeek
 
 Your one-stop resource for clear, helpful technical guidance and reference materials. We've created this open repository to share knowledge and help you succeed with your technical implementations.
 
