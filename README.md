@@ -17,6 +17,10 @@ This repository contains:
 - [Service User Creation](/Documentation/aws/onboarding/Service_User_Creation.html)
 - [Temporary Access with SSO](/Documentation/aws/onboarding/TemporaryAccess.html)
 
+### [Azure Onboarding](/Documentation/Azure)
+- [Azure Onboarding Guide](/Documentation/azure/onboarding.html)
+
+
 
 ## We Welcome Your Input
 
