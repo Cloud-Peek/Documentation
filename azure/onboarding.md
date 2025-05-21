@@ -164,13 +164,6 @@ For Cloud Security Posture Management (CSPM) with read-only access, consider the
 
 > **Note**: You can create a [custom role](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles) that combines read-only permissions across multiple resource types for a more tailored auditing experience.
 
-## Next Steps
-
-- Set up scheduled runs for regular scanning
-- Implement notification systems for compliance violations
-- Create compliance dashboards with the scan results
-- For comprehensive CSPM, consider Microsoft's built-in tools like [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
-
 ## Additional Resources
 
 - [Microsoft Security Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices)
